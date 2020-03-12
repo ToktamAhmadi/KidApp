@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">KidApp</string>
+    <string name="latest_product">جدیدترین محصولات</string>
+    <string name="show_all_product">مشاهده همه</string>
+    <string name="papular_product">محبوبترین محصولات</string>
+    <string name="toman">تومان</string>
+    <string name="product_price">قیمت محصولات</string>
+    <string name="sort_by">مرتب سازی بر اساس</string>
+    <string name="username">نام کاربری</string>
+    <string name="password">رمز عبور</string>
+    <string name="login">ورود به حساب کابری</string>
+    <string name="sing_up">ثبت نام</string>
+    <string name="account_page">حساب کاربری</string>
+    <string name="title_product">عنوان مخصول</string>
+    <string name="add_to_cart">افزودن به سبد خرید</string>
+    <string name="add_comment">ثبت نظر</string>
+</resources>

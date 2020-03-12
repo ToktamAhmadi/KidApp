@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorPrimary2">#1A8586</color>
+    <color name="colorAccent">#5FBFC0</color>
+    <color name="gray">#9E9E9E</color>
+    <color name="gray50">#FAFAFA</color>
+    <color name="gray100">#F5F5F5</color>
+    <color name="gray200">#EEEEEE</color>
+    <color name="gray300">#e0e0e0</color>
+    <color name="gray400">#BDBDBD</color>
+    <color name="gray500">#9E9E9E</color>
+    <color name="gray600">#757575</color>
+    <color name="gray700">#616161</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_alpha_aa">#aaffffff</color>
+    <color name="black">#000</color>
+    <color name="progressBarColor">#000</color>
+    <color name="red">#f44336</color>
+    <color name="pink">#E91E63</color>
+    <color name="purple">#9C27B0</color>
+    <color name="deepPurple">#673AB7</color>
+    <color name="blue">#2196F3</color>
+    <color name="lightBlue">#03A9F4</color>
+    <color name="cyan">#00BCD4</color>
+    <color name="green">#4caf50</color>
+    <color name="lightGreen">#8BC34A</color>
+    <color name="lime">#CDDC39</color>
+    <color name="yellow">#FFEB3B</color>
+    <color name="amber">#FFC107</color>
+    <color name="orange">#FF9800</color>
+    <color name="DeepOrange">#FF5722</color>
+
+</resources>
